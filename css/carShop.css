@@ -1,0 +1,282 @@
+#logo-box1 {
+  width: 100%;
+  background: #fff;
+}
+#logo-box1 .contener1 {
+  width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#logo-box1 .contener1 .logo-left {
+  float: left;
+}
+#logo-box1 .contener1 .logo-right {
+  float: right;
+  margin-top: 26px;
+}
+#logo-box1 .contener1 .logo-right ul {
+  padding-right: 26px;
+}
+#logo-box1 .contener1 .logo-right ul li {
+  float: left;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li1 .span1 {
+  float: left;
+  width: 35px;
+  height: 35px;
+  background: url("../img/carShop/liucheng_bg.png") no-repeat 0 -35px;
+  text-align: center;
+  line-height: 35px;
+  color: #fff;
+  font-size: 20px;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li1 .span2 {
+  position: relative;
+  width: 75px;
+  height: 5px;
+  float: left;
+  margin-top: 15px;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li1 .span2 i {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75px;
+  height: 5px;
+  background: #00C8FF;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li2 .span3 {
+  position: relative;
+  width: 75px;
+  height: 5px;
+  float: left;
+  margin-top: 15px;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li2 .span3 i {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75px;
+  height: 5px;
+  background: #6c6c6c;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li2 .span4 {
+  float: left;
+  width: 35px;
+  height: 35px;
+  background: url("../img/carShop/liucheng_bg.png") no-repeat 0 0;
+  text-align: center;
+  line-height: 35px;
+  color: #fff;
+  font-size: 20px;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li2 .span5 {
+  position: relative;
+  width: 75px;
+  height: 5px;
+  float: left;
+  margin-top: 15px;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li2 .span5 i {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75px;
+  height: 5px;
+  background: #6c6c6c;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li3 .span6 {
+  position: relative;
+  width: 75px;
+  height: 5px;
+  float: left;
+  margin-top: 15px;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li3 .span6 i {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75px;
+  height: 5px;
+  background: #6c6c6c;
+}
+#logo-box1 .contener1 .logo-right ul .logo-li3 .span7 {
+  float: left;
+  width: 35px;
+  height: 35px;
+  background: url("../img/carShop/liucheng_bg.png") no-repeat 0 0;
+  text-align: center;
+  line-height: 35px;
+  color: #fff;
+  font-size: 20px;
+}
+#logo-box1 .contener1 .logo-right ol li {
+  margin-top: 8px;
+  float: left;
+  width: 164px;
+  height: 14px;
+  margin-right: 4px;
+}
+.content-main {
+  width: 100%;
+  background: #f6f6f3;
+  overflow: hidden;
+}
+.content-main .content-box {
+  width: 960px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.content-main .content-box .box {
+  width: 960px;
+  background: #fff;
+  overflow: hidden;
+  padding: 60px 0 140px;
+}
+.content-main .content-box .box .pic {
+  float: left;
+  width: 135px;
+  height: 164px;
+  margin-left: 110px;
+}
+.content-main .content-box .box .words {
+  margin: 50px 0 0 50px;
+  float: left;
+}
+.content-main .content-box .box .words p {
+  font-size: 24px;
+  color: #c4c4c4;
+  margin-bottom: 10px;
+}
+.content-main .content-box .box .words .span1 {
+  display: inline-block;
+  font-size: 18px;
+  height: 36px;
+  line-height: 36px;
+}
+.content-main .content-box .box .words a {
+  width: 140px;
+  height: 36px;
+  line-height: 36px;
+  display: inline-block;
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+  background: #ff643c;
+  margin: 0 8px;
+}
+.content-main .content-box .box .words .span2 {
+  display: inline-block;
+  font-size: 18px;
+  height: 36px;
+  line-height: 36px;
+}
+.content-main #content-push-3 {
+  height: 401px;
+  width: 960px;
+  margin: 20px auto;
+}
+.content-main #content-push-3 h2 {
+  width: 960px;
+  height: 24px;
+  margin-bottom: 17px;
+}
+.content-main #content-push-3 h2 span {
+  float: left;
+  width: 120px;
+  height: 24px;
+  margin-right: 12px;
+  font-size: 18px;
+}
+.content-main #content-push-3 h2 i {
+  font-style: normal;
+  font-size: 18px;
+  float: left;
+}
+.content-main #content-push-3 h2 .a1 {
+  width: 101px;
+  height: 14px;
+  float: right;
+  background: url("../img/index/bfd_logo_ch.png") no-repeat right 0;
+}
+.content-main #content-push-3 #content-push-g {
+  height: 325px;
+  width: 960px;
+  overflow: hidden;
+  position: relative;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul {
+  width: 3920px;
+  height: 325px;
+  position: relative;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul li {
+  float: left;
+  width: 225px;
+  height: 325px;
+  margin-right: 20px;
+  background: #fff;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul li img {
+  width: 225px;
+  height: 225px;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul li .content-push-ul-box {
+  width: 205px;
+  height: 89px;
+  padding: 11px 10px 0 10px;
+  margin: 0 auto;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul li .content-push-ul-box .content-push-ul-p1 {
+  color: #6C6C6C;
+  font-size: 12px;
+  line-height: 20px;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul li .content-push-ul-box .content-push-ul-p2 {
+  color: #FF643C;
+  font-size: 14px;
+  float: left;
+  margin-top: 10px;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul li .content-push-ul-box .content-push-ul-p3 {
+  color: #FF643C;
+  font-size: 26px;
+  float: left;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul li .content-push-ul-box .content-push-ul-p5 {
+  background: #FF643C;
+  float: right;
+  width: 90px;
+  height: 26px;
+  text-align: center;
+  line-height: 26px;
+}
+.content-main #content-push-3 #content-push-g .content-push-ul li .content-push-ul-box .content-push-ul-p5 a {
+  display: block;
+  color: #fff;
+}
+.content-main #content-push-3 #content-push-g #btn1,
+.content-main #content-push-3 #content-push-g #btn2 {
+  height: 29px;
+  width: 29px;
+  background: black;
+  opacity: 0.6;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  border: 0;
+  cursor: pointer;
+}
+.content-main #content-push-3 #content-push-g #btn1 {
+  position: absolute;
+  left: 0;
+  top: 28%;
+  margin-left: 10px;
+}
+.content-main #content-push-3 #content-push-g #btn2 {
+  position: absolute;
+  right: 0;
+  top: 28%;
+  margin-right: 10px;
+}
+/*# sourceMappingURL=carShop.css.map */
